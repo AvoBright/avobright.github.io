@@ -7,14 +7,6 @@
 /*jslint regexp: true, nomen: true, sloppy: true */
 /*global window, navigator, document, importScripts, setTimeout, opera */
 
-//
-//
-erte g function
-sdfshiush 
-//
-//
-
-
 var requirejs, require, define;
 (function (global) {
     var req, s, head, baseElement, dataMain, src,
@@ -2129,17 +2121,7 @@ var requirejs, require, define;
             globalDefQueue.push([name, deps, callback]);
         }
     };
-WOWOWOW
-dfgdf
 
-
-dfgdfgd
-dg
-
-3435435
-    
-    fgfghf
-    
     define.amd = {
         jQuery: true
     };
